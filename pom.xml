@@ -29,7 +29,7 @@
     <description>Custom rule to enforce correct placement of beans.xml (</description>
     <properties>
         <enforcer-api.version>3.0.0-M3</enforcer-api.version>
-        <maven.version>2.0.9</maven.version>
+        <maven.version>3.8.1</maven.version>
     </properties>
     <build>
         <pluginManagement>
